@@ -1,5 +1,10 @@
 # serverless-plugin-timber
-
+## Config
+```yaml
+custom: 
+  timber:
+    apiKey: <your-api-key>
+```
 
 ## License
 
